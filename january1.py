@@ -3,6 +3,7 @@ year = int(input("Enter the year : "))
 previous_year = year - 1
 
 total_normal_days = previous_year * 365
+
 total_leap_days = previous_year // 4 - previous_year // 100 + previous_year // 400
 
 total_days = total_normal_days + total_leap_days
