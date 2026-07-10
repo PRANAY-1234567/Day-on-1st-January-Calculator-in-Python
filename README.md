@@ -3,7 +3,6 @@
 ## 📌 Overview
 
 This project calculates the **day of the week for 1st January** of any given year.
-
 The program uses leap year calculations and the total number of elapsed days from Year 1 to determine the weekday for **January 1**. It then maps the calculated value to the corresponding day using Python's `match-case` statement.
 
 This project is useful for learning date calculations, leap year logic, arithmetic operations, and pattern matching in Python.
@@ -200,3 +199,5 @@ Aspiring Software Engineer | Python | Java | SQL | Data Analytics
 ## 📄 License
 
 This project is open-source and available for educational and learning purposes.
+
+<img width="869" height="766" alt="image" src="https://github.com/user-attachments/assets/197a3d8b-9701-4000-827f-e24ead409030" />
